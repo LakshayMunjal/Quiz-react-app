@@ -1,9 +1,6 @@
 import React from 'react';
 import './App.css';
-
-function clickme(){
-  alert('you clicked');
-}
+import clickme from './components/Quizcomponent1';
 
 function App() {
   return (
