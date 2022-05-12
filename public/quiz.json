@@ -1,8 +1,5 @@
 {
     
-"Javascript is an _______ language"
-"a=Object-Oriented"
-"b=Object-Based"
-"c=Procedural"
-"d=None of the above"
+"1":"Javascript is an _______ language",
+"2": ["a:Object-Oriented","b:Object-Based","b=Object-Based","c:Procedural","d:None of the above"]
 }
