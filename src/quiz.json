@@ -1,0 +1,14 @@
+[
+       {
+    "id": 1,
+"Question":"Javascript is an _______ language",
+"Answers": [ 
+                    {
+                     "a":"Object-Oriented",
+                     "b":"Object-Based",
+                     "c":"Procedural",
+                     "d":"None of the above"
+                    }
+            ]
+        }
+]
